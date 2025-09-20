@@ -29,7 +29,7 @@
 # Quick start
 
 1. Download the `WINMM.dll` (FSL) from the [official source](https://www.unknowncheats.me/forum/grand-theft-auto-v/616977-fsl-local-gtao-saves.html).
-2. Launch **FSL-Manager.exe**.
+2. Launch **FSL Manager.exe**.
 3. Click **Browse** next to *Source DLL* and pick the `WINMM.dll`.
 4. Click **Browse** next to *Game Folder* and select your GTA V Enhanced installation folder.
 5. Click **Install FSL** to copy `WINMM.dll` into the game folder.
