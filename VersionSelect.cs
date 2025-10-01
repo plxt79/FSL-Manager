@@ -36,7 +36,7 @@ namespace FSL_Manager
                 }
                 else
                 {
-                    Process.Start("steam://launch/" + appId);
+                    Process.Start("steam://rungameid/" + appId);
                 }
 
                 this.Close();
